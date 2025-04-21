@@ -1,0 +1,10 @@
+->Accuracy of detection and segmentation.
+
+
+->Where the things are not working. And how to fix it.
+
+->Show real detection output screen shot.
+
+->Reserved 10% of the image for the accuracy calculation.
+
+->Used 100 epochs for this.

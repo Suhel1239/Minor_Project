@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "abrasion"
+    },
+    {
+      "id": 1,
+      "name": "bruises"
+    },
+    {
+      "id": 2,
+      "name": "burns"
+    },
+    {
+      "id": 3,
+      "name": "cut"
+    },
+    {
+      "id": 4,
+      "name": "diabetic"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
